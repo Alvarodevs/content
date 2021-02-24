@@ -24,7 +24,7 @@ But why do developers like it?   Well, the list is infinite, but here are a few 
 ## How does it Work?
 ***
 
-The console is really simple: it’s a black screen that’s always expecting a *command*.  After you type the desired command and press the `return` key, the computer executes it and shows some feedback with the resulting output on the screen.  A simple Question <> Answer interface.
+The console is really simple: it’s a black screen that’s always expecting a *command*.  After you type the desired command, and press the `return` key, the computer executes it and shows some feedback with the resulting output on the screen.  A simple Question <> Answer interface.
 
 But what is a *command*?
 
